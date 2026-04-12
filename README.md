@@ -1,0 +1,2 @@
+# python-journey
+learning python
